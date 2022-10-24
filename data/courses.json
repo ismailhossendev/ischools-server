@@ -1,272 +1,223 @@
 [
   {
-    "id": "6356b09347fbaf3021008b49",
-    "name": "Web Design",
-    "image": "https://source.unsplash.com/random/300x300/?2",
-    "enrolled": 711,
-    "price": 6222,
-    "videos": 40,
-    "quiz": 54,
-    "category": "Web",
-    "sortDetails": "Learn web design with HTML & CSS, making website layouts, responsive designs, and interactive experiences from the top instructor. This Web Design course will provide you with the complete guideline to start your career as a web designer.",
-    "instractor": {
-      "name": "Jhankar mahbub",
-      "image": "",
-      "details": ""
-    },
+    "id": "6356cf4b5d2e196d34046f84",
+    "name": "২৪ ঘণ্টায় কোরআন শিখি",
+    "image": "https://cdn.10minuteschool.com/lg/images/Thumbnails/24-ghontay-quran-shikhi-Course-Thumbnail-.jpg",
+    "enrolled": 34000,
+    "time": 24,
+    "isPremium": true,
+    "videos": 36,
+    "quiz": 8,
+    "chapter": 10,
+    "note": 28,
+    "category": "Language Learning",
+    "instructor": "মাওলানা শাইখ মুহাম্মাদ জামাল উদ্দীন",
+    "instractorDetails": "কামিল-এম এম (মুমতাজুল মুফাসসিরীন); খতীব, রুপায়ন টাউন কেন্দ্রীয় জামে মসজিদ; চেয়ারম্যান, জামালী তা'লীমুল কোরআন ফাউন্ডেশন",
+    "instractorImg": "https://10minuteschool.com/skills/courses/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Flp%2Fjamal_uddin_onset.jpg&w=1920&q=75",
     "whatLearning": [
-      "Proper and to-the-point information about website planning, designing, and coding",
-      "Usage of HTML and CSS language",
-      "Designing website layout and template",
-      "Everything about web hosting"
+      "দ্রুত সময়ে কোরআন তিলাওয়াতের সহীহ ও শুদ্ধ পদ্ধতি ।",
+      "সঠিক কোরআন তিলাওয়াতের গুরুত্বপূর্ণ বিষয়াবলি, যেমন: মুক্তবর্ণ, যুক্তাক্ষর, হরফ, হরকত, তানভীন, জযম, তাশদীদ, মাদ্দ, ওয়াকফ।",
+      "মাওলানা শাইখ মুহাম্মাদ জামাল উদ্দীনের অভিজ্ঞতার আলোকে কোরআন তিলাওয়াত নিয়ে বিশেষ কিছু উপদেশ।",
+      "কোরআন তিলাওয়াতের নিয়ম-কানুন এবং বিভিন্ন বিধি-নিষেধ।"
     ],
-    "whoPepoleFor": [
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design"
-    ],
-    "aboutCourse": "If you are up-to-date with the world of technology, you are well informed about the demand for skillful web designe",
-    "courseShylebus": ""
+    "aboutCourse": "কোর্স সম্পর্কে আপনি কি দীর্ঘদিন চর্চার অভাবে কোরআন তিলাওয়াতের সময় বিভিন্ন সমস্যার সম্মুখীন হচ্ছেন? নানারকম ব্যস্ততার কারনে কি হয়ে উঠছেনা শুদ্ধতার সাথে কোরআন পাঠ? আপনার দুশ্চিন্তা দূর করতে ও কোরআন পাঠ শেখার যাত্রা সহজ করতে টেন মিনিট স্কুল নিয়ে এসেছে ‘২৪ ঘণ্টায় কোরআন শিখি’ কোর্সটি। কোরআন তিলাওয়াতের বিষয়গুলো খুব সহজেই আয়ত্ত্ব করতে চাইলে এই কোর্সটি আপনার জন্যই। ঘরে বসেই সহজ বাংলায় কোরআন তিলাওয়াতের সকল নিয়ম-কানুন ও বিধি-নিষেধ শিখে নিতে পারবেন এক কোর্সেই। এই কোর্সটির মাধ্যমে আপনি কোরআন তিলাওয়াত সম্পর্কিত থাকা সকল ভুল-ভ্রান্তি দূর করে নিতে পারবেন। কোর্সটি সাজানো হয়েছে সব বয়সের মানুষের কথা চিন্তা করে এবং সবচেয়ে সহজ পদ্ধতিতে কোরআন তিলাওয়াত শিখানোর উদ্দেশ্যে। কোরআন পড়ার দক্ষতা বৃদ্ধি করতে, কোরআন শুদ্ধ করে পড়ার নিয়ম জানতে এবং সঠিক ও নির্ভুলভাবে অনলাইনে কোরআন শিক্ষা পেতে এখনই কোর্সটিতে এনরোল করুন। কোর্সটি যাদের জন্য যারা কোরআন তিলাওয়াত শিখতে চান কিন্তু সময়ের অভাবে শুরু করতে পারছেন না। চর্চার অভাবে যারা কোরআন তিলাওয়াতের সঠিক নিয়মাবলি ভুলে গিয়েছেন। কোরআন তিলাওয়াতের বিধি-নিষেধ ও সঠিক উচ্চারণের গুরুত্ব সম্পর্কে যারা অবগত নন।",
+    "courseContent": [
+      "মুক্তবর্ণ পরিচয় | পর্ব ১",
+      "মুক্তবর্ণ পরিচয় | পর্ব ২",
+      "মুক্তবর্ণ পরিচয় | পর্ব ৩",
+      "মুক্তবর্ণ পরিচয় | পর্ব ৪",
+      "যুক্তাক্ষর শিক্ষা | পর্ব ১",
+      "যুক্তাক্ষর শিক্ষা | পর্ব ২",
+      "যুক্তাক্ষর শিক্ষা | পর্ব ৩",
+      "যুক্তাক্ষর শিক্ষা | পর্ব ৪",
+      "যুক্তাক্ষর শিক্ষা | পর্ব ৫",
+      "কোরআন তিলাওয়াত | পর্ব ১",
+      "কোরআন তিলাওয়াত | পর্ব ২",
+      "কোরআন তিলাওয়াত | পর্ব ৩",
+      "কোরআন তিলাওয়াত | পর্ব ৪",
+      "কোরআন তিলাওয়াত | পর্ব ৫"
+    ]
   },
   {
-    "id": "6356b09316508d655d3ed6f4",
-    "name": "Web Design",
-    "image": "https://source.unsplash.com/random/300x300/?2",
-    "enrolled": 711,
-    "price": 6222,
-    "videos": 40,
-    "quiz": 54,
-    "category": "Web",
-    "sortDetails": "Learn web design with HTML & CSS, making website layouts, responsive designs, and interactive experiences from the top instructor. This Web Design course will provide you with the complete guideline to start your career as a web designer.",
-    "instractor": {
-      "name": "Jhankar mahbub",
-      "image": "",
-      "details": ""
-    },
+    "id": "6356cf4bb91c18f453664bb0",
+    "name": "অর্থসহ নামাজ শিক্ষা",
+    "image": "https://cdn.10minuteschool.com/lg/images/Thumbnails/Namaz-Sikkha-Course-Thumbnail.jpg",
+    "enrolled": "১৮৯৪",
+    "time": "৩",
+    "isPremium": false,
+    "videos": "৫০",
+    "quiz": "৬",
+    "chapter": "৬ ",
+    "note": "২",
+    "category": "Language Learning",
+    "instructor": "মাওলানা শাইখ মুহাম্মাদ জামাল উদ্দীন",
+    "instractorDetails": "কামিল-এম এম (মুমতাজুল মুফাসসিরীন); খতীব, রুপায়ন টাউন কেন্দ্রীয় জামে মসজিদ; চেয়ারম্যান, জামালী তা'লীমুল কোরআন ফাউন্ডেশন",
+    "instractorImg": "https://10minuteschool.com/skills/courses/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Flp%2Fjamal_uddin_onset.jpg&w=1920&q=75",
     "whatLearning": [
-      "Proper and to-the-point information about website planning, designing, and coding",
-      "Usage of HTML and CSS language",
-      "Designing website layout and template",
-      "Everything about web hosting"
+      "কোরআন ও সুন্নাহ অনুসারে সঠিক নিয়মে নামাজ আদায় করার পদ্ধতি।",
+      "নামাজ আদায় করার গুরুত্বপূর্ণ নিয়ম কানুন ও বিধি-নিষেধ।, তানভীন, জযম, তাশদীদ, মাদ্দ, ওয়াকফ।",
+      "নামাজের আরকান, আহকাম এবং ওয়াজিব সমূহ।",
+      "নামাজের নিয়ত ও প্রতিটি দু’আর অর্থসহ সঠিক উচ্চারণ।",
+      "নামাজ পড়ার প্রয়োজনীয়তা নিয়ে সঠিক জ্ঞান ও উপদেশ।"
     ],
-    "whoPepoleFor": [
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design"
-    ],
-    "aboutCourse": "If you are up-to-date with the world of technology, you are well informed about the demand for skillful web designe",
-    "courseShylebus": ""
+
+    "aboutCourse": "কোর্সটি যাদের জন্য যারা নামাজের নিয়ম শিখতে আগ্রহী কিন্তু সময়ের অভাবে পারছেন না। চর্চার অভাবে যারা নামাজ আদায়ের সঠিক নিয়মাবলি ভুলে গিয়েছেন। নামাজ পড়ার সঠিক নিয়ম ও বিধি-নিষেধের গুরুত্ব সম্পর্কে যারা অবগত নন। নামাজ আদায়ের বিভিন্ন ফরজ, ওয়াজিব ও সুন্নাত সম্পর্কে জানতে আগ্রহী যারা। কোর্স সম্পর্কে অনেক আগে নামাজের নিয়ম শিখেছিলেন, এখন আবার সেই নিয়মগুলো সঠিকভাবে ঝালাই করে নিতে চান? পাঁচ ওয়াক্ত নামাজ আদায় করা সত্ত্বেও নামাজ পড়ার সঠিক নিয়মগুলো নিয়ে এখনো সন্দিহান? একজন মুমিনের জীবনের প্রথম ও প্রধান কাজ হলো সময় মতো নামাজ আদায় করা, যার জন্য প্রয়োজন সঠিক নামাজ শিক্ষা। কিন্তু শুধু নামাজ আদায় করলেই হবে না বরং সহীহভাবে আদায় করা আবশ্যক। আর শুদ্ধভাবে নামাজ আদায় করতে হলে জানতে হবে নামাজের সকল নিয়ম ও পদ্ধতি।নামাজ আদায় করার সময় অল্প জানার কারণে যাতে কোনো ভুল না হয়ে যায়, সেজন্য টেন মিনিট স্কুল নিয়ে এসেছে অর্থসহ নামাজ শিক্ষা কোর্স। মাওলানা শেখ মুহম্মদ জামাল উদ্দিন এই কোর্সে আপনাকে শেখাবেন কীভাবে সঠিক নিয়ম মেনে নামাজ পড়তে হয় যাতে এই বিষয়ে আপনার থাকা সকল প্রকার বিভ্রান্তি দূর হয়, এবং আপনি কোরআন ও সুন্নাহর আলোকে সহীহ পদ্ধতি অবলম্বন করে নামাজ আদায় করতে পারেন।",
+    "courseContent": [
+      "নামাজের আহকাম, আরকান এবং ওয়াজিব সমূহ।",
+      "আহকাম এর ৭ ফরজ।",
+      "আরকান এর ৬ ফরজ | দাঁড়িয়ে নামাজ পড়া।",
+      "দাঁড়ানোর পদ্ধতি এবং নামাজে দৃষ্টি কোথায় রাখবেন?",
+      "নামাজ শুরু করা ও হাত উঁচু করার পদ্ধতি এবং হাত বাধার",
+      "তাকবীরে তাহরীমা বাঁধার পর হাত কোথায় বাঁধবেন?",
+      "আমিন বলার ফজিলত ও নিয়ম।",
+      "আমিন সশব্দে বলা।",
+      "সূরা ফাতিহার সাথে অন্য আয়াত কিংবা সূরা মিলানো।",
+      "রুকু করার পদ্ধতি ও রফউল ইয়াদাইন না করার প্রসঙ্গ।",
+      "রফউল ইয়াদাইন করা ও রুকু করার পদ্ধতি।",
+      "রুকুতে পিঠ, মাথা ও নিতম্ব কীভাবে থাকবে।",
+      "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম রুকুতে যে তিনটি দোয়া পড়তেন।",
+      "রুকু থেকে উঠার নিয়ম ও দোয়া।"
+    ]
   },
   {
-    "id": "6356b0937cf7c0c6bdf240dd",
-    "name": "Web Design",
-    "image": "https://source.unsplash.com/random/300x300/?2",
-    "enrolled": 711,
-    "price": 6222,
-    "videos": 40,
-    "quiz": 54,
-    "category": "Web",
-    "sortDetails": "Learn web design with HTML & CSS, making website layouts, responsive designs, and interactive experiences from the top instructor. This Web Design course will provide you with the complete guideline to start your career as a web designer.",
-    "instractor": {
-      "name": "Jhankar mahbub",
-      "image": "",
-      "details": ""
-    },
+    "id": "6356cf4b4e35624e53a7db23",
+    "name": "২৪ ঘণ্টায় কোরআন শিখি",
+    "image": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/ut_bangla_hw.jpg",
+    "enrolled": "34000",
+    "time": 8,
+    "isPremium": true,
+    "videos": 76,
+    "quiz": 8,
+    "chapter": 10,
+    "note": 28,
+    "category": "Kids' Courses",
+    "instructor": "Foridul Islam Khan",
+    "instractorDetails": "Hand Writing Trainer",
+    "instractorImg": "https://10minuteschool.com/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Finstructors%2FShundor-O-Druto-Haater-Lekha-120.jpg&w=640&q=75",
     "whatLearning": [
-      "Proper and to-the-point information about website planning, designing, and coding",
-      "Usage of HTML and CSS language",
-      "Designing website layout and template",
-      "Everything about web hosting"
+      "দ্রুত বাংলা হাতের লেখা নিখুঁত ও সুন্দর করার কৌশল।",
+      "স্বরবর্ণ ও ব্যঞ্জনবর্ণের প্রতিটি অক্ষর ব্যবহার করে শব্দ গঠনের উপায়।",
+      "পূর্ণমাত্রা, অর্ধমাত্রা, মাত্রাবিহীন ও যুক্ত বর্ণ সহজে লেখার নিয়ম।",
+      "১০টি কার, ৬টি ফলা ও বিরাম চিহ্নের পরিচিতি।"
     ],
-    "whoPepoleFor": [
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design"
-    ],
-    "aboutCourse": "If you are up-to-date with the world of technology, you are well informed about the demand for skillful web designe",
-    "courseShylebus": ""
+    "aboutCourse": "কোর্সটি সম্পর্কে আপনি কি আপনার সন্তানের বাংলা হাতের লেখা নিয়ে চিন্তিত? সন্তানের হাতের লেখা কীভাবে সুন্দর করবেন তার একটি সহজ সমাধান খুঁজছেন? হাতের লেখা সুন্দর হলে পরীক্ষার খাতায় যেমন ভালো প্রভাব পড়ে, তেমনি সুন্দর ও দ্রুত হাতের লেখা আপনার ব্যক্তিত্বে এক ভিন্ন মাত্রা যোগ করে। আপনার সন্তানের হাতের লেখা সহজভাবে ও খেলার ছলে সুন্দর করার জন্য টেন মিনিট স্কুল নিয়ে এসেছে সুন্দর ও দ্রুত বাংলা হাতের লেখা কোর্স! এই কোর্স আপনার সন্তানের বাংলা হাতের লেখা নিয়ে সকল সমস্যার কার্যকর সমাধান হিসেবে কাজ করবে। কোর্সটি বিশেষভাবে বাচ্চাদের বাংলা হাতের লেখার দক্ষতা বৃদ্ধির জন্য তৈরি করা হয়েছে, যাতে তারা হাতের লেখায় দক্ষতা অর্জনের জন্য যা কিছু করা দরকার তা একদম শুরু থেকেই বুঝতে পারে এবং একই সাথে বাংলা হাতের লেখা চর্চা করতে পারে। তাই আপনার সন্তানের হাতের লেখা সুন্দর করতে এবং হাতের লেখায় তাদের দক্ষ করে তুলতে এখনই তাদের এনরোল করে ফেলুন এই কোর্সে।",
+    "courseContent": [
+      "মুক্তবর্ণ পরিচয় | পর্ব ১",
+      "মুক্তবর্ণ পরিচয় | পর্ব ২",
+      "মুক্তবর্ণ পরিচয় | পর্ব ৩",
+      "মুক্তবর্ণ পরিচয় | পর্ব ৪",
+      "যুক্তাক্ষর শিক্ষা | পর্ব ১",
+      "যুক্তাক্ষর শিক্ষা | পর্ব ২",
+      "যুক্তাক্ষর শিক্ষা | পর্ব ৩",
+      "যুক্তাক্ষর শিক্ষা | পর্ব ৪",
+      "যুক্তাক্ষর শিক্ষা | পর্ব ৫"
+
+    ]
   },
   {
-    "id": "6356b093759b7c18b5613289",
-    "name": "Web Design",
-    "image": "https://source.unsplash.com/random/300x300/?2",
-    "enrolled": 711,
-    "price": 6222,
-    "videos": 40,
-    "quiz": 54,
-    "category": "Web",
-    "sortDetails": "Learn web design with HTML & CSS, making website layouts, responsive designs, and interactive experiences from the top instructor. This Web Design course will provide you with the complete guideline to start your career as a web designer.",
-    "instractor": {
-      "name": "Jhankar mahbub",
-      "image": "",
-      "details": ""
-    },
+    "id": "6356cf4b01c312621552ab86",
+    "name": "Programming for kids",
+    "image": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/Programming-for-Kids-Course-Thumbnail.jpg",
+    "enrolled": 3000,
+    "time": 54,
+    "isPremium": false,
+    "videos": 52,
+    "quiz": 8,
+    "chapter": 10,
+    "note": 28,
+    "category": "Kids' Courses",
+    "instructor": "Prapty Rahman",
+    "instractorDetails": "Founder of Ministry of Codes Winner of National ICT Award; Global Shaper by World Economic Forum for Promoting Programming among Kids",
+    "instractorImg": "https://10minuteschool.com/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Finstructors%2FInstructor-DP---Programming-for-Kids-120.jpg&w=640&q=75",
     "whatLearning": [
-      "Proper and to-the-point information about website planning, designing, and coding",
-      "Usage of HTML and CSS language",
-      "Designing website layout and template",
-      "Everything about web hosting"
+      "Javascript, HTML ও CSS এর জটিল বিষয়গুলো সহজেই শিখে ফেলার পদ্ধতি।",
+      "অ্যাপ তৈরি করার বিভিন্ন ফাংশন, ভেরিয়েবল ও লজিক ব্লকের ব্যবহার।",
+      "অ্যাডভেঞ্চার অ্যাপ, টাইমার অ্যাপ ও পেইন্ট অ্যাপের মত মজাদার অ্যাপ তৈরি করা।",
+      "গেম তৈরিতে অ্যানিমেশনের ব্যবহার এবং কীভাবে স্পেইস শুটার ও গোল্ড রাশের মত গেইম তৈরি করা যায়।",
+      "কীভাবে HTML এবং CSS ব্যবহার করে অনায়াসে একটি ইনভেন্টরি ট্র্যাকার এবং সোশ্যাল মিডিয়া সাইট ডিজাইন করা যায়।"
     ],
-    "whoPepoleFor": [
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design"
-    ],
-    "aboutCourse": "If you are up-to-date with the world of technology, you are well informed about the demand for skillful web designe",
-    "courseShylebus": ""
+    "aboutCourse": "এই কোর্সটি আপনার সন্তানকে কীভাবে সাহায্য করবে: ওয়েবসাইট, গেইম, ও বিভিন্ন অ্যাপ কীভাবে কাজ করে তা শিখতে পারা এবং নিজেই বানাতে শেখার মাধ্যমে। বেসিক প্রোগ্রামিং ল্যাঙ্গুয়েজ ও তাদের ব্যবহার শেখার মাধ্যমে। কোডিং, অ্যাপ, ওয়েবসাইট এবং গেইম ডেভেলপমেন্ট -এর সাথে পরিচিত করার মাধ্যমে। কোর্স সম্পর্কে তথ্যপ্রযুক্তির এই যুগে প্রাথমিক পর্যায় থেকেই শিশুদের কোডিং বা প্রোগ্রামিং শেখানো অত্যন্ত গুরুত্বপূর্ণ একটি বিষয়, যা উন্নত বিশ্বের বেশিরভাগ দেশেই করা হয়। কম্পিউটার প্রোগ্রামিং আপনার শিশুকে নতুন একটি গাণিতিক ভাষা শেখাবে, যা তাদের সৃষ্টিশীলতা ও সৃজনশীলতাকে উৎসাহিত করবে, গণিতের ভিত্তি শক্ত করবে এবং সুপরিকল্পিত উপায়ে সিদ্ধান্ত বাস্তবায়িত করতে শেখাবে। কিন্তু ইন্টারনেটে 'প্রোগ্রামিং' কথাটা লিখলেই একসাথে অনেক তথ্য চলে আসে, যার কারণে সঠিক দিকনির্দেশনা পাওয়াটা বেশ কঠিন হয়ে দাড়ায়। তাই আপনার শিশুকে মজার ছলে প্রোগ্রামিং শেখানোর জন্য টেন মিনিট স্কুল নিয়ে এসেছে 'Programming For Kids' কোর্স! কোর্সটি সাজিয়েছেন প্রাপ্তি রহমান, যিনি ছোটদের প্রোগ্রামিং নিয়ে কাজ করার জন্য ২০২১ সালে জাতীয় আইসিটি পুরস্কার পেয়েছেন এবং ওয়ার্ল্ড ইকোনোমিক ফোরাম কর্তৃক 'গ্লোবাল শেপার' হিসেবে নির্বাচিত হয়েছেন। আজই আপনাদের সন্তানকে কোর্সটিতে এনরোল করে ফেলুন ও তাকে উদ্ভাবক হওয়ার স্বপ্নে আলোকিত করুন।",
+    "courseContent": [
+      "Introduction to Code.org",
+      "Getting Started with App Lab",
+      "Day-Night Button Navigation App",
+      "App Lab",
+      "Getting Started with Game Lab",
+      "Scale, Rotation, Visible",
+      "Sprite Movement Using Arrow Keys",
+      "Animation and Game Frames in Game Lab",
+      " Collecting Coins and Adding Scores",
+      "Space Shooter Games"
+    ]
   },
   {
-    "id": "6356b093ed84ca0c42adf996",
-    "name": "Web Design",
-    "image": "https://source.unsplash.com/random/300x300/?2",
-    "enrolled": 711,
-    "price": 6222,
-    "videos": 40,
-    "quiz": 54,
-    "category": "Web",
-    "sortDetails": "Learn web design with HTML & CSS, making website layouts, responsive designs, and interactive experiences from the top instructor. This Web Design course will provide you with the complete guideline to start your career as a web designer.",
-    "instractor": {
-      "name": "Jhankar mahbub",
-      "image": "",
-      "details": ""
-    },
+    "id": "6356cf4b01ad298b96c40061",
+    "name": "Microsoft Office 3 in 1 Bundle",
+    "image": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/office_bundle.jpg",
+    "enrolled": 3500,
+    "time":1,
+    "isPremium": true,
+    "videos": 38,
+    "quiz": 8,
+    "chapter": 10,
+    "note": 28,
+    "category": "Skill Development",
+    "instructor": "Sadman Sadik,Abtahi Iptesam",
+    "instractorDetails": "Instructor, 10 Minute School; Bestselling Author; Education Content Creator | Microsoft Excel Trainer",
+    "instractorImg": "https://10minuteschool.com/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Flp%2Fss_onset.jpg&w=640&q=75",
     "whatLearning": [
-      "Proper and to-the-point information about website planning, designing, and coding",
-      "Usage of HTML and CSS language",
-      "Designing website layout and template",
-      "Everything about web hosting"
+      "মাইক্রোসফট অফিস এর গুরুত্বপূর্ণ তিনটি সফটওয়্যার - ওয়ার্ড, এক্সেল ও পাওয়ারপয়েন্টের সব শর্টকাট শিখে কাজের গতি ও প্রোডাক্টিভিটি বাড়ানো।",
+      "স্টুডেন্ট থেকে প্রফেশনাল লাইফ পর্যন্ত যেকোনো প্রেজেন্টেশনের জন্য আকর্ষণীয় স্লাইড বানানো।",
+      "মাইক্রোসফট পাওয়ারপয়েন্ট ব্যবহার করে বেসিক শেপ থেকে 3D Model বানানোর কৌশল।",
+      "একাডেমিক লাইফে পেপার বা অ্যাসাইনমেন্ট লেখা, প্রফেশনাল লাইফের সিভি বানানো এবং কোনো আবেদনপত্র বা ডকুমেন্ট তৈরির পদ্ধতি।"
     ],
-    "whoPepoleFor": [
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design"
-    ],
-    "aboutCourse": "If you are up-to-date with the world of technology, you are well informed about the demand for skillful web designe",
-    "courseShylebus": ""
+    "aboutCourse": "Microsoft Office 3 in 1 Bundle কোর্সটি কাদের জন্য? যারা মাইক্রোসফট অফিস সম্পর্কে বেসিক ধারণা রাখেন কিন্তু অ্যাডভান্সড লেভেলে কাজ করতে গিয়ে আটকে যান। যেসব ছাত্র বিভিন্ন একাডেমিক ডকুমেন্ট যেমন, রিপোর্ট, অ্যাসাইনমেন্ট, প্রেজেন্টেশন, ইত্যাদি সহজেই ফরম্যাটিং করতে চান। যেসব প্রফেশনাল একই সাথে মাইক্রোসফট অফিস এর সবচেয়ে প্রয়োজনীয় তিনটি সফটওয়্যারের খুঁটিনাটি শিখে কাজের গতি বাড়াতে চান। Microsoft Office 3 in 1 Bundle কোর্সটি সম্পর্কে তথ্য-প্রযুক্তির বর্তমান যুগে পড়াশোনা অথবা ক্যারিয়ারের প্রয়োজনে আমাদের মাইক্রোসফট অফিসের সফটওয়্যার গুলো (মাইক্রোসফট ওয়ার্ড, এক্সেল বা পাওয়ারপয়েন্ট) ব্যবহার করার প্রয়োজন পড়ে। এই তিনটি সফটওয়্যার ভালোভাবে না শেখা থাকলে খুব সাধারণ কাজ করতেও অন্যদের সাহায্য নিতে হয়। তাই নিজের প্রযুক্তিগত দক্ষতা বাড়াতে খুব ভালোভাবে মাইক্রোসফট অফিসের গুরুত্বপূর্ণ তিনটি সফটওয়্যারের - মাইক্রোসফট ওয়ার্ড, পাওয়ারপয়েন্ট এবং এক্সেলের ব্যবহার শেখা অত্যন্ত গুরুত্বপূর্ণ। আজকাল যেকোনো ভালো চাকরিতে ধরেই নেয়া হয়, আপনি মাইক্রোসফট অফিস সম্পর্কে ভালো ধারণা রাখবেন। ছাত্র অবস্থায়ও জানা থাকা প্রয়োজন মাইক্রোসফট ওয়ার্ড, পাওয়ারপয়েন্ট কিংবা এক্সেল-এর কাজ। মাত্র এই তিনটি সফটওয়্যারের ব্যবহার শিখে নিলে আপনার ক্যারিয়ার এবং দৈনন্দিন জীবনে প্রয়োজনীয় সকল ডকুমেন্টস আপনি নিজেই বানাতে পারবেন। একইসাথে এই সব কিছু শেখার সুবর্ণ সুযোগ নিয়ে এসেছে টেন মিনিট স্কুলের Microsoft Office 3 in 1 Bundle! কোর্স। মাইক্রোসফট অফিস এর MS Word, MS Excel এবং MS Powerpoint এর বেসিক থেকে অ্যাডভান্স সকল খুঁটিনাটি জানা থাকলে স্টুডেন্ট লাইফে ভালো রেজাল্টের সাথে সাথে প্রফেশনাল লাইফের প্রস্তুতিও হবে নিশ্চিন্তে। আর দেরি না করে, মাইক্রোসফট অফিসের এই তিনটি সফটওয়্যার শিখে নিজেকে নেক্সট লেভেলে নিয়ে যেতে ভর্তি হোন “Microsoft Office 3 in 1 Bundle” কোর্সে। আপনি তিনটি সফটওয়্যারের শেখার সাথে তিনটি আলাদা সার্টিফিকেটও পাবেন ।",
+    "courseContent": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
-    "id": "6356b093d7e55116a82303f3",
-    "name": "Web Design",
-    "image": "https://source.unsplash.com/random/300x300/?2",
-    "enrolled": 711,
-    "price": 6222,
-    "videos": 40,
-    "quiz": 54,
-    "category": "Web",
-    "sortDetails": "Learn web design with HTML & CSS, making website layouts, responsive designs, and interactive experiences from the top instructor. This Web Design course will provide you with the complete guideline to start your career as a web designer.",
-    "instractor": {
-      "name": "Jhankar mahbub",
-      "image": "",
-      "details": ""
-    },
+    "id": "6356cf4bb77d58831f46e2b6",
+    "name": "SEO Course for Beginners",
+    "image": "https://cdn.10minuteschool.com/lg/images/skills/Updated_Thumbnail_v3/seo_course_for_beginners_in_bangladesh.jpg",
+    "enrolled": 400,
+    "time": 8,
+    "isPremium": false,
+    "videos": 36,
+    "quiz": 8,
+    "chapter": 10,
+    "note": 28,
+    "category": "Skill Development",
+    "instructor": "Md Faruk Khan",
+    "instractorDetails": "Instructor, 10 Minute School Founder & CEO, Khan IT www.mdfarukkhan.com",
+    "instractorImg": "https://10minuteschool.com/_next/image?url=https%3A%2F%2Fcdn.10minuteschool.com%2Fimages%2Fskills%2Finstructors%2Ffaruk_khan.jpg&w=640&q=75",
     "whatLearning": [
-      "Proper and to-the-point information about website planning, designing, and coding",
-      "Usage of HTML and CSS language",
-      "Designing website layout and template",
-      "Everything about web hosting"
+      "SEO Basics, সার্চ ইঞ্জিন, ডোমেইন-হোস্টিং, কি-ওয়ার্ড রিসার্চ, অনপেজ SEO, অফপেজ SEO",
+      "গুগল সার্চ কনসোল-সহ SEO-এর বিভিন্ন টুলের ব্যবহার",
+      "বিভিন্ন প্রজেক্টভিত্তিক কাজের মাধ্যমে ইন্ডাস্ট্রিতে প্রচলিত SEO প্র্যাকটিস",
+      "SEO শিখে সার্চ ইঞ্জিন, ডোমেইন-হোস্টিং, কি-ওয়ার্ড রিসার্চ, অনপেজ SEO, অফপেজ SEO"
     ],
-    "whoPepoleFor": [
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design"
-    ],
-    "aboutCourse": "If you are up-to-date with the world of technology, you are well informed about the demand for skillful web designe",
-    "courseShylebus": ""
-  },
-  {
-    "id": "6356b09327c1e0a8b6eeeb34",
-    "name": "Web Design",
-    "image": "https://source.unsplash.com/random/300x300/?2",
-    "enrolled": 711,
-    "price": 6222,
-    "videos": 40,
-    "quiz": 54,
-    "category": "Web",
-    "sortDetails": "Learn web design with HTML & CSS, making website layouts, responsive designs, and interactive experiences from the top instructor. This Web Design course will provide you with the complete guideline to start your career as a web designer.",
-    "instractor": {
-      "name": "Jhankar mahbub",
-      "image": "",
-      "details": ""
-    },
-    "whatLearning": [
-      "Proper and to-the-point information about website planning, designing, and coding",
-      "Usage of HTML and CSS language",
-      "Designing website layout and template",
-      "Everything about web hosting"
-    ],
-    "whoPepoleFor": [
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design"
-    ],
-    "aboutCourse": "If you are up-to-date with the world of technology, you are well informed about the demand for skillful web designe",
-    "courseShylebus": ""
-  },
-  {
-    "id": "6356b09307ecbd567274177f",
-    "name": "Web Design",
-    "image": "https://source.unsplash.com/random/300x300/?2",
-    "enrolled": 711,
-    "price": 6222,
-    "videos": 40,
-    "quiz": 54,
-    "category": "Web",
-    "sortDetails": "Learn web design with HTML & CSS, making website layouts, responsive designs, and interactive experiences from the top instructor. This Web Design course will provide you with the complete guideline to start your career as a web designer.",
-    "instractor": {
-      "name": "Jhankar mahbub",
-      "image": "",
-      "details": ""
-    },
-    "whatLearning": [
-      "Proper and to-the-point information about website planning, designing, and coding",
-      "Usage of HTML and CSS language",
-      "Designing website layout and template",
-      "Everything about web hosting"
-    ],
-    "whoPepoleFor": [
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design"
-    ],
-    "aboutCourse": "If you are up-to-date with the world of technology, you are well informed about the demand for skillful web designe",
-    "courseShylebus": ""
-  },
-  {
-    "id": "6356b093d9a9e4f8750d08ac",
-    "name": "Web Design",
-    "image": "https://source.unsplash.com/random/300x300/?2",
-    "enrolled": 711,
-    "price": 6222,
-    "videos": 40,
-    "quiz": 54,
-    "category": "Web",
-    "sortDetails": "Learn web design with HTML & CSS, making website layouts, responsive designs, and interactive experiences from the top instructor. This Web Design course will provide you with the complete guideline to start your career as a web designer.",
-    "instractor": {
-      "name": "Jhankar mahbub",
-      "image": "",
-      "details": ""
-    },
-    "whatLearning": [
-      "Proper and to-the-point information about website planning, designing, and coding",
-      "Usage of HTML and CSS language",
-      "Designing website layout and template",
-      "Everything about web hosting"
-    ],
-    "whoPepoleFor": [
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design",
-      "Those who want to learn the A to Z of web designing, starting from HTML, CSS, and domain hosting to responsive website design"
-    ],
-    "aboutCourse": "If you are up-to-date with the world of technology, you are well informed about the demand for skillful web designe",
-    "courseShylebus": ""
+    "aboutCourse": "এই কোর্স যাদের জন্য: যারা SEO শিখে এর মাধ্যমে আয় করার উপায় জানতে চান যারা ইন্ডাস্ট্রিতে প্রচলিত SEO প্র্যাকটিস শিখতে ও প্রয়োগ করতে চান পেইড অ্যাডভার্টাইজিং-এ খরচ না করেও যারা ওয়েবসাইটে ভিজিটর বাড়াতে চান যারা নিজেদের ব্যবসায়িক ওয়েবসাইট কিংবা ব্লগ গুগল সার্চে র‍্যাংক করাতে চান কোর্স সম্পর্কে: শুধু SEO বা Search Engine Optimization-এর মাধ্যমে গুগল সার্চ থেকে একটি ওয়েবসাইটের অর্গানিক ট্রাফিক কয়েকগুণ বৃদ্ধি করা সম্ভব। একটি নির্দিষ্ট বিষয়ে অসংখ্য ওয়েবসাইট থাকায় কেবল সঠিকভাবে SEO প্র্যাকটিস মেনে চলা ওয়েবসাইটগুলোই গুগলের সার্চ ইঞ্জিনে প্রাধান্য পায়। বেশিরভাগ মানুষই গুগল সার্চ রেজাল্টের দ্বিতীয় পেজ ভিজিট করে না বলে SEO-এর নিয়মগুলো মেনে ওয়েবসাইটকে অপটিমাইজ করা প্রয়োজন। প্রতিযোগিতার এই যুগে তাই ওয়েবসাইট মালিকদের কাছে SEO বিশেষজ্ঞদের রয়েছে উচ্চ চাহিদা। ধরুন, আপনি একজন ব্যবসায়ী যিনি ওয়েবসাইটের মাধ্যমে তার পণ্য বিক্রি করেন। অথবা, আপনি হয়ত ব্লগ লিখে সেখানে গুগল অ্যাডসেন্স ব্যবহার করে আয় করতে চান। হতে পারে আপনি একজন ছাত্র বা সদ্য গ্র্যাজুয়েট, যিনি SEO শিখে ফ্রিল্যান্সিং করতে চাচ্ছেন অথবা ক্যারিয়ার গড়তে চাচ্ছেন ডিজিটাল মার্কেটিং-এ। কিন্তু SEO কী বা কাকে বলে তা ছাড়া আপনি আর তেমন কিছুই জানেন না। হয়ত আপনি বিস্তারিত শেখার জন্য একটি ভালো SEO Course খুঁজছেন, কিন্তু বেশিরভাগ SEO Course এত দীর্ঘ যে ধৈর্য নিয়ে শেষ করা বেশ কঠিন। তাই একটি ভাল SEO ট্রেনিং খুঁজে পাওয়া বেশ কঠিন যা আপনাকে মার্কেটিং- এ দক্ষ করে তুলবে। এসব সমস্যার সমাধানে টেন মিনিট স্কুল নিয়ে এলো সময়োপযোগী কারিকুলাম, সুবিধামত অনলাইন ক্লাস এবং প্রজেক্টভিত্তিক SEO প্র্যাকটিসের সুবিধাসহ “SEO for Beginners” কোর্স। এই কোর্সে শিক্ষার্থীরা SEO-এর প্রাথমিক ধারণা এবং তা প্রয়োগ করার পদ্ধতি শিখতে পারবে। সার্চ ইঞ্জিন, ডোমেইন-হোস্টিং, কি-ওয়ার্ড রিসার্চ, অন-পেজ SEO, অফ-পেজ SEO, গুগল সার্চ কনসোল এবং SEO কনসাল্টিং, সবই কভার করা হবে এই কোর্সে। তাই এনরোল করুন “SEO for Beginners” কোর্সে এবং এখনই শিখে নিন SEO Basics!",
+    "courseContent": [
+      "Welcome & Course Insights",
+      "Understanding SEO",
+      "What is a Search Engine?",
+      "What is SERP?",
+      "Advanced SERP Features",
+      "Domain Name - a Beginner Friendly Guide",
+      "Different Types of Domain",
+      "What is Hosting?",
+      "What is Keyword Research?",
+      "What is Allintitle and Why is it Important?"
+    ]
   }
 ]
